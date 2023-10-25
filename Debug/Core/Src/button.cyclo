@@ -1,0 +1,2 @@
+button.c:13:6:lcd_display_mode_select	2
+button.c:26:5:get_button	5
