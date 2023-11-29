@@ -1,6 +1,6 @@
 # washing_machine
 
-[![Video Label](http://img.youtube.com/vi/91Pr4_1RqsM/0.jpg)](https://www.youtube.com/91Pr4_1RqsM)
+[![Video Label](http://img.youtube.com/vi/91Pr4_1RqsM/0.jpg)](https://www.youtube.com/watch?v=91Pr4_1RqsM)
 
 
 ---
