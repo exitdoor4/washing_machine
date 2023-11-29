@@ -1,9 +1,7 @@
 # washing_machine
 
+[![Video Label](http://img.youtube.com/vi/91Pr4_1RqsM/0.jpg)](https://www.youtube.com/91Pr4_1RqsM)
 
-https://docs.google.com/presentation/d/1MjyVjMv7rg225DDsiwmHpsmbMrW3YBhv7-lscI-won4/edit?usp=sharing
-
-![default](https://github.com/exitdoor4/washing_machine/assets/74641060/231df559-4b0a-4c96-9603-db947e5412a9)
 
 ---
 ## button1 
@@ -69,4 +67,9 @@ https://docs.google.com/presentation/d/1MjyVjMv7rg225DDsiwmHpsmbMrW3YBhv7-lscI-w
 
   
   button4 -> 적용 후 메뉴화면 back
+
+  ---
+### [발표자료](https://docs.google.com/presentation/d/1MjyVjMv7rg225DDsiwmHpsmbMrW3YBhv7-lscI-won4/edit?usp=sharing)
+
+![default](https://github.com/exitdoor4/washing_machine/assets/74641060/231df559-4b0a-4c96-9603-db947e5412a9)
 
